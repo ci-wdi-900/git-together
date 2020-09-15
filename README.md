@@ -4,6 +4,13 @@ The cohort that cheats together, sheets together.
 
 ---
 
+### Setup
+
+* one person will start a new repo on GitHub
+* when they're done working, the other person will become a collaborator
+* then the other person clones and starts working on it
+
+
 ### Introduction
 
 We'll be improving our `git` cheat-sheeting, putting our best foot forward out of four possible feet--that is, you'll be working in pairs! We'll consolidate those pairs of cheat-sheets into one master cheat-sheet, adding some extra info, deciding on the best wording and format, and making it _pretty_.
